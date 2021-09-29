@@ -10,7 +10,7 @@
   displayed where the types will be fetched using a promise.
 
 ## Screen shots
-* ![testMain](https://user-images.githubusercontent.com/66214537/135335169-c70a53ff-f8f9-4313-93ab-3ec8d0bb7e4e.png)
+* ![LandingPage](https://user-images.githubusercontent.com/66214537/135335888-7bb02740-42be-4ae7-91ee-4d218b7c543b.png)
 
 * ![testImg2](https://user-images.githubusercontent.com/66214537/135335256-ebbdfe0b-fb73-4213-93f7-7e37dd0a675b.png)
 
