@@ -1,0 +1,81 @@
+/*Styling for Auto complete component*/
+
+.image {
+  height: 80px;
+  width: 80px;
+  margin: 10px;
+}
+
+.resultContainer {
+  display: flex;
+  align-items: center;
+  font-size: large;
+}
+
+.heading {
+  background-color: burlywood;
+  padding: 5px;
+}
+
+.mainHeading {
+  text-align: center;
+  margin-top: 0;
+}
+
+.icon {
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.inputField {
+  font-style: normal;
+  text-decoration: inherit;
+  width: inherit;
+  padding: 8px;
+  font-size: x-large;
+  border: none;
+  border-radius: 25px;
+}
+
+.inputField:focus-visible {
+  outline: none;
+  outline-color: white;
+}
+
+.searchBar {
+  border: 2px solid #0c13ef;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  width: 40vw;
+}
+
+/* Styling for Counter component */
+.counterValue {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.count {
+  align-self: flex-end;
+  font-size: 35px;
+}
+
+.reset {
+  margin: 0 43%;
+}
+
+/* Styling for  Home component*/
+.landingButtons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 35%;
+}
+
+.test {
+  display: flex;
+  justify-content: center;
+  padding-top: 2em;
+}

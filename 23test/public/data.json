@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "type": "live",
+    "title": "People rule",
+    "label": "rules",
+    "url": "/images/event2.png"
+  },
+  {
+    "id": "2",
+    "type": "photo",
+    "title": "Man with a hat",
+    "label": "hat",
+    "url": "/images/manWithHat.jpeg"
+  },
+  {
+    "id": "3",
+    "type": "photo",
+    "title": "Man with a car",
+    "label": "car",
+    "url": "/images/manWithCar2.jpeg"
+  },
+  {
+    "id": "4",
+    "type": "live",
+    "title": "Man with hat2",
+    "label": "hat",
+    "url": "/images/manWithHat.jpeg"
+  },
+  {
+    "id": "5",
+    "type": "live",
+    "title": "People rule",
+    "label": "rules",
+    "url": "/images/eventRule1.jpeg"
+  },
+  {
+    "id": "6",
+    "type": "photo",
+    "title": "Man with a hat3",
+    "label": "hat",
+    "url": "/images/manWithHat.jpeg"
+  },
+  {
+    "id": "7",
+    "type": "photo",
+    "title": "Group of people",
+    "label": "event",
+    "url": "/images/groupOfPeople.jpeg"
+  },
+  {
+    "id": "8",
+    "type": "live",
+    "title": "People watching tv",
+    "label": "televison",
+    "url": "/images/peopleWatchingTv.jpeg"
+  }
+]
