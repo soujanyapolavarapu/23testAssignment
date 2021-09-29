@@ -9,7 +9,13 @@
 * Searchbar with auto complete:  User can search with titles( fx: People, car,hat, etc) in the searchbar, the corresponding types(photos and Live videos) will be 
   displayed where the types will be fetched using a promise.
 
-	
+## Screen shots
+* ![testMain](https://user-images.githubusercontent.com/66214537/135335169-c70a53ff-f8f9-4313-93ab-3ec8d0bb7e4e.png)
+
+* ![testImg2](https://user-images.githubusercontent.com/66214537/135335256-ebbdfe0b-fb73-4213-93f7-7e37dd0a675b.png)
+
+* ![testImg1](https://user-images.githubusercontent.com/66214537/135335275-139dc3e3-6968-41a4-8c1d-50ef7c675af3.png)
+
 ## Technologies
 Project is created with:
 * React framework
